@@ -4,11 +4,10 @@ A simple project following Clean Architecture principles. This is an example of 
 
 
 # Technologies & Tools:
-  Firabase Auth
-  Firebase Core
-  Google Sign In
-  GetX
-
+- Firebase Auth  
+- Firebase Core  
+- Google Sign-In  
+- GetX (State Management & Routing)
 
 ## Summary
   ### ✅ Version 1 - Completed
@@ -19,7 +18,7 @@ A simple project following Clean Architecture principles. This is an example of 
     - [ ] Implement user registration flow with data saved to Firebase Cloud Firestore  
     - [ ] Integrate Firebase Analytics for usage tracking
     
-### 🔜 Version 3 - Planned
+  ### 🔜 Version 3 - Planned
     - [ ] Add proper error handling and feedback  
     - [ ] Write unit tests, widget tests, and integration tests
   
