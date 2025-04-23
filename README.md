@@ -1,16 +1,26 @@
 # connection_fb
 
-A new Flutter project.
+A simple project following Clean Architecture principles. This is an example of how to use Firebase for user authentication, saving data with Firebase Cloud Firestore, and analyzing integration through Firebase Analytics and reports.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Technologies & Tools:
+  Firabase Auth
+  Firebase Core
+  Google Sign In
+  GetX
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Summary
+  V1 - Completed
+    - Basic login with email and password
+    - Login with Google account using Firebase Authentication
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  V2 - TO DO
+    - [ ] Implement user registration flow with data saved to Firebase Cloud Firestore  
+    - [ ] Integrate Firebase Analytics for usage tracking
+
+  V3 - TO DO
+    - [ ] Add proper error handling and feedback  
+    - [ ] Write unit tests, widget tests, and integration tests
+  
+ 
